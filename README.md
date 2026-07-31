@@ -50,12 +50,12 @@ This repository includes a dependency-free Node.js demo that reviews a project b
 
 ## 📌 Featured Projects
 
-| Project                              | Tech                                              | Highlights                                                                                           | Links                                             |
+| Project | Tech | Highlights | Links |
 | ------------------------------------ | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **Portfolio Intelligence API** | Node.js · REST · JSON · OpenAI-compatible API  | Structured `POST /api/review` service for local and hosted AI review workflows                      | [API code](./test/server.js) · [Config]([./test/.env.example](https://github.com/jaked333/Building-Tech-Portfolios-Interview-Skills/blob/main/test/server.js)) |
+| **Portfolio Intelligence API** | Node.js · REST · JSON · OpenAI-compatible API | Structured `POST /api/review` service for local and hosted AI review workflows | [API Code](https://github.com/jaked333/Building-Tech-Portfolios-Interview-Skills/blob/main/test/server.js) |
 | **Healthcare Clinic Appointment System** | Java · Spring Boot · JSP · MySQL | Patient registration, secure login, doctor search, department filtering, and date/time appointment booking | [Repository](https://github.com/jaked333/healthcare-clinic-appointment-system) |
-| **Shop Cart API**              | Java · Spring Boot · REST API                   | Backend endpoint to report shopping cart updates                                                     | [Repo](.[/test/spring-boot-shop-cart](https://github.com/jaked333/Building-Tech-Portfolios-Interview-Skills/tree/main/test/spring-boot-shop-cart))                    |
-| **AI Match Predictor**         | Python · Pandas · scikit-learn · Random Forest | Predicts home wins, away wins, or draws from match data with cross-validation and grid-search tuning | [Model script](./test/projectdatasci.py)                |
+| **Shop Cart API** | Java · Spring Boot · REST API | Backend endpoint to report shopping cart updates | [Repository](https://github.com/jaked333/Building-Tech-Portfolios-Interview-Skills/tree/main/test/spring-boot-shop-cart) |
+| **AI Match Predictor** | Python · Pandas · scikit-learn · Random Forest | Predicts home wins, away wins, or draws from match data with cross-validation and grid-search tuning | [Model Script](https://github.com/jaked333/Building-Tech-Portfolios-Interview-Skills/blob/main/test/projectdatasci.py) |
 
 ---
 
