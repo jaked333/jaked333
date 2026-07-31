@@ -1,8 +1,6 @@
 <!-- Banner / Cover -->
 
-<p align="center">
-  <img src="d74e0593-40ae-4594-9314-a6328e057db9.png" width="220" alt="Chinnapong Ketvit profile photo" />
-</p>
+
 
 <h1 align="center">Hi, I’m ⟪Chinnapong Ketvit⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
